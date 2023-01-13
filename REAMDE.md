@@ -21,6 +21,6 @@ To initialize TypeScript, I used [Google unofficial TypeScript package](https://
 
 ## Implemented algorithm or data structure
 
-|#|Name|Description|Difficulty|More|
-|-|----|-----------|----------|----|
-|# 1|Link list|----| Easy | |
+|#|Branch name|Name|Description|Difficulty|More|
+|-|-|----|-----------|----------|----|
+|# 1|1-link-list|Link list|----| Easy | |
